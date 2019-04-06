@@ -2,6 +2,8 @@ package com.tomekl007.chapter_4
 
 import org.apache.spark.SparkContext
 import org.apache.spark.sql.SparkSession
+import org.scalatest.FunSuite
+import org.scalatest.Matchers._
 
 import scala.collection.mutable
 import scala.collection.mutable.ArrayBuffer
