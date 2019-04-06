@@ -1,4 +1,4 @@
-package com.tomekl007.Section_3
+package com.tomekl007.chapter_3
 
 case class UserData(userId: String, data: String)
 

@@ -10,8 +10,8 @@ libraryDependencies += "mrpowers" % "spark-daria" % "0.27.1-s_2.11"
 libraryDependencies += "MrPowers" % "spark-fast-tests" % "0.17.2-s_2.11" % "test"
 
 libraryDependencies ++= Seq(
-  "org.scalatest" %% "scalatest" % "2.2.4" % "test",
   "org.apache.spark" %% "spark-core" % "2.4.0",
+  "org.apache.spark" %% "spark-graphx" % "2.4.0",
   "org.apache.spark" %% "spark-sql" % "2.4.0",
   "org.apache.spark" %% "spark-mllib" % "2.4.0",
   "org.postgresql" % "postgresql" % "9.4.1209.jre7",

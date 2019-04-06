@@ -1,4 +1,4 @@
-package com.tomekl007.Section_4
+package com.tomekl007.chapter_4
 
 import org.apache.spark.SparkContext
 import org.apache.spark.rdd.RDD

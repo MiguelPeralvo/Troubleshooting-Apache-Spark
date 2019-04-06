@@ -1,4 +1,4 @@
-package com.tomekl007.Section_4
+package com.tomekl007.chapter_4
 
 import com.tomekl007.chapter_3.UserTransaction
 import org.apache.spark.sql.SparkSession
