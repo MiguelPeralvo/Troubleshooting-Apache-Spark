@@ -1,4 +1,4 @@
-package com.tomekl007.chapter_2
+package com.tomekl007.Section_2
 
 import org.apache.spark.sql.SparkSession
 import org.scalatest.FunSuite

@@ -1,4 +1,4 @@
-package com.tomekl007.chapter_4
+package com.tomekl007.Section_4
 
 import org.scalatest.FunSuite
 import org.apache.spark.SparkContext

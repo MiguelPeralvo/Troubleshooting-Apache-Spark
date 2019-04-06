@@ -1,4 +1,4 @@
-package com.tomekl007.chapter_1
+package com.tomekl007.Section_1
 
 import org.apache.spark.SparkContext
 import org.apache.spark.sql.SparkSession
